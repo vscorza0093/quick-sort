@@ -113,3 +113,4 @@ Passo a passo da execução do Quick Sort
     }
     -> ResultadoFinal:[0, 1, 2, 7, 8, 10, 23, 77]
 
+![quicksort](https://user-images.githubusercontent.com/61314756/236708141-deeb11ce-1794-43ab-8e38-03ca71be2fee.jpg)
