@@ -67,15 +67,16 @@ Para a chamada de Quick Sort que resolverá o particionamento à direita usaremo
 
 Passo a passo da execução do Quick Sort
 
-    * [3, 8, 7, 10, 0, 23, 2, 1, 77] # Array completo
+    [3, 8, 7, 10, 0, 23, 2, 1, 77] # Array completo
     Primeira chamada de QuickSort(args)
     {
         Left: 0
         Right: 8
         Pivot Index: 3
     }
-    * Resultado:[1, 0, 2, 3, 8, 23, 7, 10, 77]
-
+    -> Resultado:[1, 0, 2, 3, 8, 23, 7, 10, 77]
+    
+    [1, 0, 2, 3, 8, 23, 7, 10, 77] # Array completo
     Segunda chamada de QuickSort(args)
     {
         [1, 0, 2] # Início
