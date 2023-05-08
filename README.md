@@ -65,7 +65,7 @@ Para a chamada de Quick Sort que resolverá o particionamento à direita usaremo
             quickSort(array, pivot_index + 1, right)    # Organiza os valores à direita do pivô
 
 
-Passo a passo da execução do Quick Sort
+### Passo a passo da execução do Quick Sort
 
     [3, 8, 7, 10, 0, 23, 2, 1, 77] # Array completo
     Primeira chamada de QuickSort(args)
