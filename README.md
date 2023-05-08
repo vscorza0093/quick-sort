@@ -1,6 +1,6 @@
 # Quick Sort
 
-O Quick Sort é um método eficiente de organização, apesar de não ser tão constante quanto Heap Sort ou Merge Sort, existem métodos para tentar garantir maior eficiência. 
+O Quick Sort é um método eficiente de organização que trabalha com a técnica de Divisão e Conquista, apesar de não ser tão constante quanto Heap Sort ou Merge Sort, existem métodos para tentar garantir maior eficiência. 
 
 O Quick Sort é baseado no particionamento, que é um método que consiste em escolher um elemento da lista a ser organizada e tratá-lo como um pivô, que nada mais é do que o elemento que nos guiará durante a organização da lista. A partir do pivô, poderemos verificar todos os números menores ou iguais a ele e jogá-los para esquerda e jogar para direita os que forem maiores.
 
